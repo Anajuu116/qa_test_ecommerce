@@ -1,6 +1,6 @@
-# qa_test_ecommerce
+# Projeto de Teste Manual - E-commerce
 Projeto de testes manuais em e-commerce com documentação de bugs e casos de teste.
-# Teste funcionalidade da ferramenta Carrinho de Compras - Americanas
+# Teste da funcionalidade do Carrinho de Compras - Americanas
 - Data: 14/04/2026
 - Sistema testado: https://www.americanas.com.br/
 - Tipo de teste: Teste funcional manual
