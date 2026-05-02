@@ -26,7 +26,7 @@ Verificar se as funcionalidades ofertadas como: adicionar, remover, editar ou at
 ## Resultados
 ### Google Chrome
 - Comportamento inconsistente, em todos os testes realizados não era possível a remoção de itens após adicioná-los por meio da aba destinada ao carrinho, a remoção só era possível após dar continuidade a compra, pouco antes do pagamento.
-- Em alguns casos, ao adicionar certa quantidade de itens (não sendo possível precisar de forma quantativa pois apresentou variação aleatória) o site impossibilita o usuário de adicionar outros, excluindo automáticamente aqueles selecionados após o primeiro item.
+- Em alguns casos, ao adicionar certa quantidade de itens o site impossibilita o usuário de adicionar outros, excluindo automáticamente aqueles selecionados após o primeiro item.
 - As falhas apresentadas foram intermitentes, tendo se repetido todas as vezes que o teste foi rodado.
 ### Mozilla Firefox
 - Funcionamento estável, dentro do esperado permitindo uso de todas as funcionalidades oferecidas sem intercorrências ou erros.
