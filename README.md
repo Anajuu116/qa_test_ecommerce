@@ -1,4 +1,4 @@
-# Teste manual de E-commerce
+# Testes manuais em E-commerce
 Projeto desenvolvido com objetivo de realizar e praticar testes manuais em um ambiente real de e-commerce, documentando cenários de teste, bugs encontrados e o comportamento da aplicação em diferentes navegadores.
 
 ---
@@ -10,8 +10,8 @@ Avaliar a execução da funcionalidade de carrinho de compras de um e-commerce, 
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge
-- GitHub
-- Markdown
+- Documentação em Markdown
+- Git
   
 ---
 ## Funcionalidades testadas
@@ -22,7 +22,7 @@ Avaliar a execução da funcionalidade de carrinho de compras de um e-commerce, 
   
 ---
 ## Ambiente de testes
-**Sistema testado:** Americanas
+**Aplicação testada:** Americanas
 **Navegadores:**
 - Google Chrome
 - Mozilla Firefox
